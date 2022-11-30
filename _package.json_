@@ -1,0 +1,14 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "16.17.1"cd 
+  },
+  "type": "module",
+  "main": "index.js",
+  "author": "<Andre>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/<dreman8>/hangman.git"
+  }
+}
